@@ -1,0 +1,22 @@
+# Binaries and build outputs
+bin/
+build/
+dist/
+*.exe
+*.test
+*.out
+
+# SQLite database file
+messages.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Vendor directory (if you use `go mod vendor`)
+vendor/
+
+# Logs and coverage
+*.log
+coverage.out

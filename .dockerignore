@@ -1,0 +1,18 @@
+# Ignore Git files
+.git
+.gitignore
+
+# Editor/IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Local build artifacts
+bin/
+build/
+dist/
+*.log
+*.out
+
+
+messages.db
