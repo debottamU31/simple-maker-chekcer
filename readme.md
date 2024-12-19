@@ -69,8 +69,8 @@ A simplified maker-checker workflow service built with Go, SQLite, and sqlc. The
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/debottamU31/simple-maker-chekcer.git
+   cd simple-maker-chekcer
    ```
 
 2. **Install dependencies**
